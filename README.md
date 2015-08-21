@@ -1,5 +1,5 @@
 # SlugGenerator-CI
-Code Snippet to Generation Slug for existing field and updating back to db 
+Code Snippet to Generation Slug for existing field and updating back to db in Codeigniter
 
 Param to Modify Inside Script :
 
